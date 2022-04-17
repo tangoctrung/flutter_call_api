@@ -1,16 +1,17 @@
-# app_call_api
+các bước chạy app:
++ Mở app trên vsc
++ sau đó mở máy ảo
++ chạy lênh: flutter run
 
-A new Flutter project.
+xử lý data khi get về
+![get_data](https://user-images.githubusercontent.com/58180752/163708638-a5049ffc-40dd-47b6-baf0-138dda6425cd.png)
 
-## Getting Started
+khi thay đổi thành phố
+![change_city](https://user-images.githubusercontent.com/58180752/163708655-ae63c77f-631c-437d-b3f6-97a2088ea5e7.png)
 
-This project is a starting point for a Flutter application.
+render dữ liệu
+![render_data](https://user-images.githubusercontent.com/58180752/163708665-99605491-5f80-4ea2-b7dd-9091318edebe.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ảnh demo app
+[1.odg](https://github.com/tangoctrung/flutter_call_api/files/8501299/1.odg)
